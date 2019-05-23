@@ -1,0 +1,14 @@
+.header, .hero, .body, .bar{
+	background-color: #FFAEC9; 
+	padding: 10px 0;
+}
+.bg{
+	background-color: red;
+	height: 70px;
+	margin-bottom: 10px;
+}
+.bg1{
+	background-color: green;
+	height: 70px;
+	margin-bottom: 10px;
+}
